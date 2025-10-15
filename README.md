@@ -50,7 +50,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/owaisali](https://www.linkedin.com/in/owais-ali-khadim-batti-2278831a1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/owais-ali-khadim-batti-2278831a1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://twitter.com/owaisali" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
