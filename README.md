@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hey there 👋, I'm Owais Ali</h1>
+<h1 align="center">Hey there 👋, I'm Owais Ali Khadim Batti</h1>
 <h3 align="center">A passionate developer exploring AI, Robotics, and Genomics 🚀</h3>
 
 <!-- VISITOR COUNT -->
@@ -50,15 +50,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/owaisali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="[https://linkedin.com/in/owaisali](https://www.linkedin.com/in/owais-ali-khadim-batti-2278831a1/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://twitter.com/owaisali" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
-
----
-
-### 💡 Quote of the Day
-> “The best way to predict the future is to invent it.” — Alan Kay
 
 ---
 
