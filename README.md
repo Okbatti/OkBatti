@@ -60,3 +60,5 @@
 ### 🕒 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
+
+![snake gif](https://github.com/Okbatti/Okbatti/blob/output/github-snake-dark.svg)
