@@ -15,7 +15,7 @@
 - 🧬 Exploring **Machine Learning**
 - 🎓 4th Year CSE Student at **BMS College of Engineering, Bangalore**
 - 📚 Reading: *Hands-On Machine Learning* & *The Code Breaker*
-- 🤝 Open to collaborating on **AI / Robotics / Genomics projects**
+- 🤝 Open to collaborating on **AI / Robotics**
 - ⚡ Fun fact: I started coding at age 9 👦💻
 
 ---
