@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hey there 👋, I'm Owais Ali Khadim Batti</h1>
-<h3 align="center">A passionate developer exploring AI, Robotics, and Genomics 🚀</h3>
+<h3 align="center">A passionate developer exploring AI and Robotics 🚀</h3>
 
 <!-- VISITOR COUNT -->
 <p align="center">
@@ -12,8 +12,8 @@
 ### 🌟 About Me
 
 - 💻 Currently working on **AI + Robotics projects**
-- 🧬 Exploring **Genomics and Machine Learning**
-- 🎓 2nd Year CSE Student at **BMS College of Engineering, Bangalore**
+- 🧬 Exploring **Machine Learning**
+- 🎓 4th Year CSE Student at **BMS College of Engineering, Bangalore**
 - 📚 Reading: *Hands-On Machine Learning* & *The Code Breaker*
 - 🤝 Open to collaborating on **AI / Robotics / Genomics projects**
 - ⚡ Fun fact: I started coding at age 9 👦💻
